@@ -1,0 +1,1 @@
+# In questo notebook andremo a calcolare la discesa del gradiente, Errore quadratico medio, Regressione Lineare, Derivate parziali, Correzioni dei Teta con le derivate parziali 
